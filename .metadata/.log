@@ -5983,3 +5983,8 @@ Caused by: org.eclipse.jgit.errors.TransportException: file:///Users/jennakwak/g
 	at org.eclipse.jgit.transport.Transport.openFetch(Transport.java:1538)
 	at org.eclipse.jgit.api.LsRemoteCommand.execute(LsRemoteCommand.java:167)
 	... 4 more
+
+!ENTRY org.eclipse.core.resources 2 2 2022-01-22 15:09:38.585
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-01-22 15:09:38.585
+!MESSAGE The project description file (.project) for 'test' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
